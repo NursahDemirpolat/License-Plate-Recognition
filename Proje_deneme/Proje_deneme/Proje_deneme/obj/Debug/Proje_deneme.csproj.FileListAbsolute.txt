@@ -1,0 +1,41 @@
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csprojAssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.Form1.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.Imaging.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.Math.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.xml
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.Imaging.xml
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\bin\Debug\AForge.Math.xml
+C:\Users\zeyne\OneDrive\Masaüstü\Bilgisayar Mühendisliği\3.sınıf 2.dönem\software engineering application\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.Form1.resources
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.exe
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.pdb
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.exe.config
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.exe
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\Proje_deneme.pdb
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.Imaging.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.Math.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.xml
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.Imaging.xml
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\AForge.Math.xml
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\obj\Debug\Proje_deneme.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\IronOcr.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\IronOcr.xml
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\x86\liblept1753.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\x86\libtesseract3052.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\x64\liblept1753.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\x64\libtesseract3052.dll
+C:\Users\LENOVO\Desktop\Proje_deneme\Proje_deneme\Proje_deneme\bin\Debug\Tesseract.dll
